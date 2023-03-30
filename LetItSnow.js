@@ -100,9 +100,10 @@ class SnowBackground {
 
   static styles = {
     pointerEvents: "none",
-    background: "none", //rgba(0, 0, 144, 0.02)
+    background: "none",
     position: "fixed",
-    zIndex: "5"
+    zIndex: "5",
+    top: 0
   }
 
 
